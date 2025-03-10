@@ -1,4 +1,4 @@
-#  Atividade - DS1T-B 2025
+#  Atividade - DS1T-A 2025
 Repositório para atividades realizadas durante as aulas de linguagem de programação.
 
 ## Atividades:
