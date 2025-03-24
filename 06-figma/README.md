@@ -9,8 +9,8 @@ Criar os layout abaixo no figma.
 
 ## Tablet
 * Largura 768px
-  ![](./tablet-768.png)
+![](./tablet-768.png)
 
 ## Celular
 * Largura 320px
-  ![](./phone-320.png)
+![](./phone-320.png)
