@@ -3,6 +3,10 @@
 ## Objetivo
 Criar os layout abaixo no figma.
 
+## Fontes
+* Poppins
+* Pattaya
+
 ## Desktop
 * Largura 1440px
   
